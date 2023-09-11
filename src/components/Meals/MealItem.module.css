@@ -1,0 +1,10 @@
+.mealItem{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0 10px;
+}
+
