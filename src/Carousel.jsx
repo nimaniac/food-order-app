@@ -22,7 +22,7 @@ const Carousel = () => {
         dots: true,
         fade: true,
         infinite: true,
-        // autoplay: true,
+        autoplay: true,
         speed: 2000,
         slidesToShow: 1,
         slidesToScroll: 1,
